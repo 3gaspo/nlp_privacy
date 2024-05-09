@@ -30,5 +30,6 @@ pip install xgboost
 
 possibles bugs :
 
+- emplacement des fichiers a été modifié, nécessite probablement de modifier les paths de lecture au début des notebooks
 - tqdm : si pas les bonnes versions de ipywidgets ou certains environnements jupyter différents, ne pas hésiter à enlever dans ce cas
 permet de suivre progression des calculs, ajouter par exmeple :  for i in tqdm(range(n))
