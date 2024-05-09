@@ -1,16 +1,16 @@
 # NLP & Privacy
-Work I did on privacy of NLP models during my 2023 internship at INRIA Grenoble, Privatics team.
+Work I did on privacy of NLP models during my 2023 internship at INRIA Grenoble, Privatics team, under Antoine Boutet's supervision.
 Studied subjects :
 - Membership Inference Attacks (MIA)
-- Counterfactual memorization
-- Data extraction
-- Differentiel Privacy (DP)
+- Counterfactual Memorization
+- Data Extraction
+- Differential Privacy (DP)
 - Federated Learning (FL)
 - Energy Consumption
-- Anonymizing medical extracts
+
+Use case : Anonymizing Medical Extracts (with Hospices Civils de Lyon)
 
 Main notebook : code/hoc.ipynb
-
 
 Data is from the BLUE dataset (Hallmarks of CANCER) : https://paperswithcode.com/dataset/blue
 
