@@ -10,5 +10,8 @@ Studied subjects :
 - Anonymizing medical extracts
 
 Main notebook : code/hoc.ipynb
-Data is from the BLUE dataset (Hallmarks of CANCER)
-Article principal : https://hal.science/hal-04299405v1
+
+
+Data is from the BLUE dataset (Hallmarks of CANCER) : https://paperswithcode.com/dataset/blue
+
+Main article (presented at IEEE BigData 2023, Sorrento, Italie) : https://hal.science/hal-04299405v1
