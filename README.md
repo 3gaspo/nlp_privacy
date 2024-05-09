@@ -8,3 +8,7 @@ Studied subjects :
 - Federated Learning (FL)
 - Energy Consumption
 - Anonymizing medical extracts
+
+Main notebook : code/hoc.ipynb
+Data is from the BLUE dataset (Hallmarks of CANCER)
+Article principal : https://hal.science/hal-04299405v1
